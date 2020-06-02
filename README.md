@@ -1,2 +1,2 @@
-# Two_screen_data_share-FlutterBoilerCode
-This is a boiler code to share data between two screen flutter setup
+# Two screen data share
+This is a boiler code to share user input data between two screen flutter setup
